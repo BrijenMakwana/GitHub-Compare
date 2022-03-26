@@ -42,9 +42,11 @@ td{
 .winner{
     background-color: #52b788;
     border-radius: 10px;
+    font-size: 1.5rem;
 }
 
 .looser{
     background-color: #e63946;
     border-radius: 10px;
 }
+
